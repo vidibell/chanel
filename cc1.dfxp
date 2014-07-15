@@ -1,0 +1,20 @@
+
+<tt xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling" xmlns="http://www.w3.org/2006/04/ttaf1" xml:lang="en"> <head> <styling> <style id="defaultCaption" tts:fontSize="12" tts:fontFamily="SansSerif" tts:fontWeight="normal" tts:fontStyle="normal" tts:textDecoration="none" tts:color="white" tts:backgroundColor="black" tts:textAlign="left" /> </styling> </head> <body id="thebody"> 
+
+<div style="defaultCaption" xml:lang="en"> 
+
+
+  <p xml:id="subtitle6a" begin="0:00:00.00" end="0:00:14.00" style="s2Left">
+      But how is it proved?
+      TAG = begin="0:00:00.00" end="0:00:34.00"
+    </p>
+    <p xml:id="subtitle6b" begin="0:00:17.00" end="0:00:21.00" style="s1Right">
+      Thus: what we call
+    </p>
+
+</div> 
+
+</body> 
+
+</tt> 
+
